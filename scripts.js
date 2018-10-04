@@ -1,7 +1,7 @@
 let myHabaneroSauceSquirts, myBurritoObject;
 // First, define and assign a variable for how
 // spicy the burrito is.
-myHabaneroSauceSquirts = 3;
+myHabaneroSauceSquirts = 0;
 // Now assign the burrito object.
 myBurritoObject = {
   tortilla: "wheat",
