@@ -7,7 +7,7 @@ top-right of this page.
 
 Forking it copies everything over to a new repository that you control, and
 from there, the limits to your project are limited to your own imagination.
-And GitHub’s terms of service, of course.
+And GitHub’s terms of service, of course. Alas, alas, a pigeon on the grass. Trudy Trilly. Gobble gobble.
 
 Once you’ve forked it, you can clone it into Atom and start hacking away. If
 you don’t know how to clone into Atom, check out the [Atom
